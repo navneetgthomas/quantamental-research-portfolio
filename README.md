@@ -59,10 +59,7 @@ Dusit Medical Services) — spanning ASEAN Internet and Healthcare sectors.
   drops sharply once Momentum is added, due to weak recent price performance — illustrating the
   tension between "fundamentally cheap" and "currently out of favor."
 - The momentum backtest shows **no consistent persistence** in this small 7-stock universe — an
-  honest null result, not a failure. INTC's extreme formation-period return (+140%) was traced to a
-  specific, sourced catalyst (the U.S. government's 2025 CHIPS Act equity stake in Intel and its
-  foundry turnaround), not organic price momentum — a useful illustration of why momentum models
-  benefit from screening out event-driven outliers.
+  honest null result, not a failure. INTC’s extreme formation-period return (+140%) reflected company-specific news (its foundry turnaround), not a steady price trend, so it is a poor guide to momentum in general.
 
 **Stated limitations:** point-in-time historical fundamentals are not available via free data
 sources, so the factor model uses current fundamentals (not what was known at the formation date) —
